@@ -1,0 +1,32 @@
+function read_write(data_in, string) %將matlab產生資料轉為2補數形式後寫入txt檔
+
+%data_in = data_in.';
+
+[row,col] = size(data_in); % 得到矩陣的列數和行數
+
+ 
+ for ii = 1:row
+     for jj = 1:col
+         if data_in(ii,jj)<0
+             data_in(ii,jj) = abs(data_in(ii,jj)) + 2^8; % unsigned -> 2補數
+         else
+              data_in(ii,jj) = data_in(ii,jj);
+         end
+     end
+ end
+
+% data_out = data_in; % data_out unsigned 轉成 2補數 給測資使用
+%---------------------------------data寫入txt檔------------------------------------
+
+aug_HH_input = fopen([string],'W'); % 寫入檔案路徑 產生 aug_HH.txt 檔                              
+for ii = 1:col
+    for jj = 1:row %橫列 直行
+        fprintf( aug_HH_input,'%5d\t',data_in(jj,ii) );
+    end
+    fprintf(aug_HH_input,'\r\n');
+end
+fclose(aug_HH_input);
+
+%----------------------------------------------------------------------------------
+
+
