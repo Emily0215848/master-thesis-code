@@ -1,0 +1,3 @@
+目前下線最新的檔案放在Tapeout那邊，因為這個路徑有中文，Modelsim會出錯，
+然後aug_HH沒跟著改的原因是testbench路徑設定錯誤
+如果在其他資料夾使用，Parameter 路徑要重設

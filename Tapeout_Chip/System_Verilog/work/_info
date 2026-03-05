@@ -1,0 +1,571 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Lab601-1/Desktop/hardware
+vadder_9bit
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+DXx4 work 18 adder_9bit_sv_unit 0 22 XoBYDYMPn49amHK37eij61
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 I7UgYGl::@jAin<V>9FME1
+I8XP7G74@d3L3@;k57?50i3
+!s105 adder_9bit_sv_unit
+S1
+Z3 dC:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog
+Z4 w1772698669
+Z5 8C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/adder_9bit.sv
+Z6 FC:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/adder_9bit.sv
+L0 3
+Z7 OV;L;10.5b;63
+Z8 !s108 1772698739.000000
+Z9 !s107 ./parameter.sv|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/adder_9bit.sv|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/adder_9bit.sv|
+!i113 1
+Z11 o-work work -sv
+Z12 tCvgOpt 0
+Xadder_9bit_sv_unit
+R1
+VXoBYDYMPn49amHK37eij61
+r1
+!s85 0
+31
+!i10b 1
+!s100 TeCDmc[UC>2[h7hM3SHlM3
+IXoBYDYMPn49amHK37eij61
+!i103 1
+S1
+R3
+R4
+R5
+R6
+Z13 F./parameter.sv
+Z14 L0 27
+R7
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vCHIP
+R1
+Z15 !s110 1772698740
+!i10b 1
+!s100 XEHTAiTNgj20OPFz191zZ1
+I>gG?GT`2GHQl7_@2AJk4S0
+R2
+!s105 CHIP_sv_unit
+S1
+R3
+w1742950495
+8C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/CHIP.sv
+FC:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/CHIP.sv
+L0 1
+R7
+r1
+!s85 0
+31
+Z16 !s108 1772698740.000000
+!s107 C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/CHIP.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/CHIP.sv|
+!i113 1
+R11
+R12
+n@c@h@i@p
+vclk_div4
+R1
+R15
+!i10b 1
+!s100 Oi[V?H7anNNal9TH;jLLi3
+I4klBPYQIR1d^1;;TVkBRk1
+R2
+!s105 clk_20div4_sv_unit
+S1
+R3
+w1743036843
+8C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/clk_ div4.sv
+FC:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/clk_ div4.sv
+L0 3
+R7
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/clk_ div4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/clk_ div4.sv|
+!i113 1
+R11
+R12
+vclock_gating
+R1
+!s110 1742977533
+!i10b 1
+!s100 MCbGIY`ifLcimA>VYRhPk0
+IBOIL3@2Y742RgdaHmh<iU2
+R2
+!s105 clock_gating_sv_unit
+S1
+R0
+w1741767959
+8clock_gating.sv
+Fclock_gating.sv
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1742977533.000000
+!s107 clock_gating.sv|
+!s90 -reportprogress|300|-sv|clock_gating.sv|
+!i113 1
+o-sv
+R12
+Ycol
+R1
+Z17 DXx4 work 25 test_SQRD_top_spi_sv_unit 0 22 TC>?Sf4Vhf=_XzVMf@mmF0
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZNl;Thl;1RGOCIh?:oPVI3
+IGjgPcfUPh5AdXFNNnPEM@2
+Z18 !s105 test_SQRD_top_spi_sv_unit
+S1
+R3
+Z19 w1742977940
+Z20 8./parameter.sv
+R13
+L0 52
+R7
+Z21 !s108 1772698949.000000
+Z22 !s107 ./parameter.sv|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv|
+Z23 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv|
+!i113 1
+R11
+R12
+Ycol1_angle
+R1
+Z24 DXx4 work 28 VM2x4_micro_rotation_sv_unit 0 22 flBj`D=1DKV8MA:hJ4gTF2
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 achVYHUjGJGKgQgX<4[?:3
+IGf6i?>kAO>OK<QCcILoZ`3
+Z25 !s105 VM2x4_micro_rotation_sv_unit
+S1
+R0
+Z26 w1738823948
+Z27 8C:/Users/Lab601-1/Desktop/hardware/parameter.sv
+Z28 FC:/Users/Lab601-1/Desktop/hardware/parameter.sv
+L0 113
+R7
+Z29 !s108 1742699215.000000
+Z30 !s107 C:/Users/Lab601-1/Desktop/hardware/parameter.sv|VM2x4_micro_rotation.sv|
+Z31 !s90 -reportprogress|300|-sv|VM2x4_micro_rotation.sv|
+!i113 1
+o-sv
+R12
+Ycol2_angle
+R1
+R24
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 Obg6K3ha_PNf^7mSoh8:m3
+IYR3_Oh<gTdd6TCZ1z?C?Z0
+R25
+S1
+R0
+R26
+R27
+R28
+L0 145
+R7
+R29
+R30
+R31
+!i113 1
+o-sv
+R12
+Ymatrix
+R1
+R17
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 GR;mgOYLfDe=o3Q=L4IT32
+I1`8@?fbCWmlUfO8;AGF4g3
+R18
+S1
+R3
+R19
+R20
+R13
+L0 31
+R7
+R21
+R22
+R23
+!i113 1
+R11
+R12
+Xparameter_sv_unit
+R1
+VGa04m_@doh2f3:<G`]Yj01
+r1
+!s85 0
+31
+!i10b 1
+!s100 Ef5ZhE^Y0UdKjFJ]H?E?41
+IGa04m_@doh2f3:<G`]Yj01
+!i103 1
+S1
+R3
+R19
+8C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/parameter.sv
+FC:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/parameter.sv
+R14
+R7
+R16
+!s107 C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/parameter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/parameter.sv|
+!i113 1
+R11
+R12
+vQRdecom_VM
+R1
+DXx4 work 18 QRdecom_VM_sv_unit 0 22 Ka2@l`H7Q9LMG?k;NON8I0
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 fnO24Qn^R2IC0F6^NgPe=2
+IkhR[KZHfQX;<QU9KAA[3R3
+!s105 QRdecom_VM_sv_unit
+S1
+R3
+R4
+Z32 8C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/QRdecom_VM.sv
+Z33 FC:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/QRdecom_VM.sv
+L0 4
+R7
+R16
+Z34 !s107 ./parameter.sv|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/QRdecom_VM.sv|
+Z35 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/QRdecom_VM.sv|
+!i113 1
+R11
+R12
+n@q@rdecom_@v@m
+XQRdecom_VM_sv_unit
+R1
+VKa2@l`H7Q9LMG?k;NON8I0
+r1
+!s85 0
+31
+!i10b 1
+!s100 =mA1OQMUjZ_Z5L4UAFAlk0
+IKa2@l`H7Q9LMG?k;NON8I0
+!i103 1
+S1
+R3
+R4
+R32
+R33
+R13
+R14
+R7
+R16
+R34
+R35
+!i113 1
+R11
+R12
+n@q@rdecom_@v@m_sv_unit
+vsub_9bit
+R1
+DXx4 work 16 sub_9bit_sv_unit 0 22 8<jDmmm[]WD>5dgl^ZBVS1
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 46_WFBAfG@oHznUUJ]^a20
+I2kHjK_dbn]9WSj6bdSg<O3
+!s105 sub_9bit_sv_unit
+S1
+R3
+R4
+Z36 8C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/sub_9bit.sv
+Z37 FC:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/sub_9bit.sv
+L0 3
+R7
+R16
+Z38 !s107 ./parameter.sv|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/sub_9bit.sv|
+Z39 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/sub_9bit.sv|
+!i113 1
+R11
+R12
+Xsub_9bit_sv_unit
+R1
+V8<jDmmm[]WD>5dgl^ZBVS1
+r1
+!s85 0
+31
+!i10b 1
+!s100 mg2BbJ1Z`j=7JJ2<H]5bj2
+I8<jDmmm[]WD>5dgl^ZBVS1
+!i103 1
+S1
+R3
+R4
+R36
+R37
+R13
+R14
+R7
+R16
+R38
+R39
+!i113 1
+R11
+R12
+vtest_SQRD_top
+R1
+DXx4 work 21 test_SQRD_top_sv_unit 0 22 =YUmGg1UcHl<Y6kOABIEJ0
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 RcM<^]V2HEc^[[F6NI]5i1
+I]7PIf^bU?3AoPSQU_8V3V3
+!s105 test_SQRD_top_sv_unit
+S1
+R0
+Z40 w1741682498
+Z41 8test_SQRD_top.sv
+Z42 Ftest_SQRD_top.sv
+L0 4
+R7
+Z43 !s108 1741682734.000000
+Z44 !s107 C:/Users/Lab601-1/Desktop/hardware/parameter.sv|test_SQRD_top.sv|
+Z45 !s90 -reportprogress|300|-sv|test_SQRD_top.sv|
+!i113 1
+o-sv
+R12
+ntest_@s@q@r@d_top
+vtest_SQRD_top_spi
+R1
+R17
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 QgUiT=OZGl0;i3?[MS3MY0
+IcH8:=k9I:E7iODZ^nlKf^1
+R18
+S1
+R3
+Z46 w1772698942
+Z47 8C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv
+Z48 FC:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv
+L0 6
+R7
+R21
+R22
+R23
+!i113 1
+R11
+R12
+ntest_@s@q@r@d_top_spi
+Xtest_SQRD_top_spi_sv_unit
+R1
+VTC>?Sf4Vhf=_XzVMf@mmF0
+r1
+!s85 0
+31
+!i10b 1
+!s100 nIJnchbJz_koE@DmAJ[720
+ITC>?Sf4Vhf=_XzVMf@mmF0
+!i103 1
+S1
+R3
+R46
+R47
+R48
+R13
+R14
+R7
+R21
+R22
+R23
+!i113 1
+R11
+R12
+ntest_@s@q@r@d_top_spi_sv_unit
+Xtest_SQRD_top_sv_unit
+R1
+V=YUmGg1UcHl<Y6kOABIEJ0
+r1
+!s85 0
+31
+!i10b 1
+!s100 miL_j4FTXk9`EAQWXmg1<1
+I=YUmGg1UcHl<Y6kOABIEJ0
+!i103 1
+S1
+R0
+R40
+R41
+R42
+R28
+L0 25
+R7
+R43
+R44
+R45
+!i113 1
+o-sv
+R12
+ntest_@s@q@r@d_top_sv_unit
+vtop
+R1
+DXx4 work 11 top_sv_unit 0 22 dA2Sk[IUaTU0zf<7b4b?=3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ?C3g1;^YmXCe><^<Qj9n72
+I=O@KH@zS1U?Mk^fPW1P[l1
+!s105 top_sv_unit
+S1
+R3
+R4
+Z49 8C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/top.sv
+Z50 FC:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/top.sv
+L0 4
+R7
+R16
+Z51 !s107 ./parameter.sv|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/top.sv|
+Z52 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/top.sv|
+!i113 1
+R11
+R12
+Xtop_sv_unit
+R1
+VdA2Sk[IUaTU0zf<7b4b?=3
+r1
+!s85 0
+31
+!i10b 1
+!s100 TD77DTQbT1333Y0IMDIBo0
+IdA2Sk[IUaTU0zf<7b4b?=3
+!i103 1
+S1
+R3
+R4
+R49
+R50
+R13
+R14
+R7
+R16
+R51
+R52
+!i113 1
+R11
+R12
+vVM2x4_micro_rotation
+R1
+DXx4 work 28 VM2x4_micro_rotation_sv_unit 0 22 UlKL;=[eBFDG87_D9IWZ:3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 P@m]Z1m`XC[PJ3^ZOEkiA2
+IUAlS@FN;eo]_5U84C:`4?1
+R25
+S1
+R3
+R4
+Z53 8C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/VM2x4_micro_rotation.sv
+Z54 FC:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/VM2x4_micro_rotation.sv
+L0 6
+R7
+R8
+Z55 !s107 ./parameter.sv|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/VM2x4_micro_rotation.sv|
+Z56 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/VM2x4_micro_rotation.sv|
+!i113 1
+R11
+R12
+n@v@m2x4_micro_rotation
+vVM2x4_micro_rotation_4
+R1
+DXx4 work 28 VM2x4_micro_rotation_sv_unit 0 22 FfV4kC0@<W;3^OAWQc;ZE2
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;PELPb@1azF];one6?gLd3
+IO1<SaCV@amW5H]9o[e]cP0
+R25
+S1
+R0
+w1742865342
+8VM2x4_micro_rotation.sv
+FVM2x4_micro_rotation.sv
+L0 6
+R7
+!s108 1742865512.000000
+R30
+R31
+!i113 1
+o-sv
+R12
+n@v@m2x4_micro_rotation_4
+XVM2x4_micro_rotation_sv_unit
+R1
+VUlKL;=[eBFDG87_D9IWZ:3
+r1
+!s85 0
+31
+!i10b 1
+!s100 iEBJ3Pk1efS4a8H=_Nmg?0
+IUlKL;=[eBFDG87_D9IWZ:3
+!i103 1
+S1
+R3
+R4
+R53
+R54
+R13
+R14
+R7
+R8
+R55
+R56
+!i113 1
+R11
+R12
+n@v@m2x4_micro_rotation_sv_unit

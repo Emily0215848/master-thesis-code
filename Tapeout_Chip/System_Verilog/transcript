@@ -1,0 +1,269 @@
+# Compile of VM2x4_micro_rotation.sv failed with 88 errors.
+# Compile of adder_9bit.sv failed with 24 errors.
+# Compile of CHIP.sv was successful.
+# Compile of clk_ div4.sv was successful.
+# Compile of parameter.sv was successful with warnings.
+# Compile of QRdecom_VM.sv failed with 2 errors.
+# Compile of sub_9bit.sv failed with 24 errors.
+# Compile of test_SQRD_top_spi.sv failed with 1 errors.
+# Compile of top.sv failed with 18 errors.
+# Compile of top_copy.sv failed with 18 errors.
+# 10 compiles, 7 failed with 175 errors.
+# Compile of VM2x4_micro_rotation.sv was successful with warnings.
+# Compile of adder_9bit.sv was successful with warnings.
+# Compile of CHIP.sv was successful.
+# Compile of clk_ div4.sv was successful.
+# Compile of parameter.sv was successful.
+# Compile of QRdecom_VM.sv was successful with warnings.
+# Compile of sub_9bit.sv was successful with warnings.
+# Compile of test_SQRD_top_spi.sv was successful with warnings.
+# Compile of top.sv was successful with warnings.
+# Compile of top_copy.sv failed with 22 errors.
+# 10 compiles, 1 failed with 22 errors.
+# Compile of VM2x4_micro_rotation.sv was successful.
+# Compile of adder_9bit.sv was successful.
+# Compile of CHIP.sv was successful.
+# Compile of clk_ div4.sv was successful.
+# Compile of parameter.sv was successful.
+# Compile of QRdecom_VM.sv was successful.
+# Compile of sub_9bit.sv was successful.
+# Compile of test_SQRD_top_spi.sv was successful.
+# Compile of top.sv was successful.
+# 9 compiles, 0 failed with no errors.
+vsim -gui work.test_SQRD_top_spi
+# vsim -gui work.test_SQRD_top_spi 
+# Start time: 16:19:33 on Mar 05,2026
+# Loading sv_std.std
+# Loading work.test_SQRD_top_spi_sv_unit
+# Loading work.test_SQRD_top_spi
+# Loading work.top_sv_unit
+# Loading work.top
+# Loading work.matrix
+# Loading work.col
+# Loading work.QRdecom_VM_sv_unit
+# Loading work.QRdecom_VM
+# Loading work.VM2x4_micro_rotation_sv_unit
+# Loading work.VM2x4_micro_rotation
+# Loading work.sub_9bit_sv_unit
+# Loading work.sub_9bit
+# Loading work.adder_9bit_sv_unit
+# Loading work.adder_9bit
+# ** Warning: (vsim-PLI-3003) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(45): [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /test_SQRD_top_spi File: C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv
+# ** Warning: (vsim-PLI-3003) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(46): [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /test_SQRD_top_spi File: C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv
+# ** Warning: (vsim-PLI-3003) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(47): [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /test_SQRD_top_spi File: C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv
+add wave -position insertpoint  \
+sim:/test_SQRD_top_spi/clk \
+sim:/test_SQRD_top_spi/rst \
+sim:/test_SQRD_top_spi/s_sclk \
+sim:/test_SQRD_top_spi/m_sclk \
+sim:/test_SQRD_top_spi/s_ssn \
+sim:/test_SQRD_top_spi/m_ssn \
+sim:/test_SQRD_top_spi/mosi \
+sim:/test_SQRD_top_spi/h
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Lab601-1  Hostname: DESKTOP-IT1LFRJ  ProcessID: 32440
+#           Attempting to use alternate WLF file "./wlftdwszb8".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftdwszb8
+restart
+# ** Warning: (vsim-PLI-3003) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(45): [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /test_SQRD_top_spi File: C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv
+# ** Warning: (vsim-PLI-3003) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(46): [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /test_SQRD_top_spi File: C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv
+# ** Warning: (vsim-PLI-3003) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(47): [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /test_SQRD_top_spi File: C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv
+run -all
+# ** Error (suppressible): (vsim-12023) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(45): Cannot execute undefined system task/function '$fsdbDumpfile'
+# ** Error (suppressible): (vsim-12023) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(46): Cannot execute undefined system task/function '$fsdbDumpvars'
+# ** Error (suppressible): (vsim-12023) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(47): Cannot execute undefined system task/function '$fsdbDumpvars'
+# ** Warning: (vsim-3534) [FOFIR] - Failed to open file "C:/Users/Lab601-1/Desktop/hardware/aug_HH.txt" for reading.
+# No such file or directory. (errno = ENOENT)    : C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(113)
+#    Time: 0 ps  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 1300 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 1500 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 1700 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 1900 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 1900 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 2100 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 2300 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 2500 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 2700 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 2700 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 2900 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 3100 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 3300 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 3500 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 3500 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 3700 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 3900 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 4100 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 4300 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 4300 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 5 us  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 5200 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 5400 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 5600 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 5600 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 5800 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 6 us  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 6200 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 6400 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 6400 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 6600 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 6800 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 7 us  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 7200 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 7200 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 7400 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 7600 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 7800 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 8 us  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 8 us  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 8700 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 8900 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 9100 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 9300 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 9300 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 9500 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 9700 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 9900 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 10100 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 10100 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 10300 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 10500 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 10700 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 10900 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 10900 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 11100 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 11300 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 11500 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 11700 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 11700 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 12400 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 12600 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 12800 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 13 us  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 13 us  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 13200 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 13400 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 13600 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 13800 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 13800 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 14 us  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 14200 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 14400 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 14600 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 14600 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(88): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 14800 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(91): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 15 us  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(94): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 15200 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(97): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 15400 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Error (suppressible): (vsim-PLI-3084) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(98): $fscanf : Argument 1 is not a valid file descriptor.
+#    Time: 15400 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# ** Note: $stop    : C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(174)
+#    Time: 16800 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# Break in Module test_SQRD_top_spi at C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv line 174
+# Compile of test_SQRD_top_spi.sv was successful.
+restart
+# Loading work.test_SQRD_top_spi_sv_unit
+# Loading work.test_SQRD_top_spi
+# Loading work.matrix
+# Loading work.col
+# ** Warning: (vsim-PLI-3003) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(45): [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /test_SQRD_top_spi File: C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv
+# ** Warning: (vsim-PLI-3003) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(46): [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /test_SQRD_top_spi File: C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv
+# ** Warning: (vsim-PLI-3003) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(47): [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /test_SQRD_top_spi File: C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv
+run -all
+# GetModuleFileName: 找不到指定的模組。
+# 
+# 
+# ** Error (suppressible): (vsim-12023) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(45): Cannot execute undefined system task/function '$fsdbDumpfile'
+# ** Error (suppressible): (vsim-12023) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(46): Cannot execute undefined system task/function '$fsdbDumpvars'
+# ** Error (suppressible): (vsim-12023) C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(47): Cannot execute undefined system task/function '$fsdbDumpvars'
+# ** Note: $stop    : C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv(174)
+#    Time: 16800 ns  Iteration: 0  Instance: /test_SQRD_top_spi
+# Break in Module test_SQRD_top_spi at C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/test_SQRD_top_spi.sv line 174

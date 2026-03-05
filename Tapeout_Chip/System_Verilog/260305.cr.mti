@@ -1,0 +1,74 @@
+C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/top.sv {1 {vlog -work work -sv -stats=none C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/top.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package top_sv_unit
+-- Compiling interface matrix
+-- Compiling interface col
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/adder_9bit.sv {1 {vlog -work work -sv -stats=none C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/adder_9bit.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package adder_9bit_sv_unit
+-- Compiling interface matrix
+-- Compiling interface col
+-- Compiling module adder_9bit
+
+Top level modules:
+	adder_9bit
+
+} {} {}} {C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/clk_ div4.sv} {1 {vlog -work work -sv -stats=none {C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/clk_ div4.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clk_div4
+
+Top level modules:
+	clk_div4
+
+} {} {}} C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/CHIP.sv {1 {vlog -work work -sv -stats=none C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/CHIP.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CHIP
+
+Top level modules:
+	CHIP
+
+} {} {}} C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/sub_9bit.sv {1 {vlog -work work -sv -stats=none C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/sub_9bit.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package sub_9bit_sv_unit
+-- Compiling interface matrix
+-- Compiling interface col
+-- Compiling module sub_9bit
+
+Top level modules:
+	sub_9bit
+
+} {} {}} C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/QRdecom_VM.sv {1 {vlog -work work -sv -stats=none C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/QRdecom_VM.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package QRdecom_VM_sv_unit
+-- Compiling interface matrix
+-- Compiling interface col
+-- Compiling module QRdecom_VM
+
+Top level modules:
+	QRdecom_VM
+
+} {} {}} C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/parameter.sv {1 {vlog -work work -sv -stats=none C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/parameter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package parameter_sv_unit
+-- Compiling interface matrix
+-- Compiling interface col
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/VM2x4_micro_rotation.sv {1 {vlog -work work -sv -stats=none C:/Users/E999PC/OneDrive/Desktop/LabData/2024_1_PPT/Resume/Tapeout_CHIP_code/System_Verilog/VM2x4_micro_rotation.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package VM2x4_micro_rotation_sv_unit
+-- Compiling interface matrix
+-- Compiling interface col
+-- Compiling module VM2x4_micro_rotation
+
+Top level modules:
+	VM2x4_micro_rotation
+
+} {} {}}
